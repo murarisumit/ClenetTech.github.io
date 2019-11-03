@@ -10,10 +10,6 @@
   description                           : Request Orders from businesses of your choice and communicate to them through chat.
   fontawesome_icon_name                 : dolly
 
-- title                                 : Reporting
-  description                           : Reporting is inbuilt to CleNet, you can generate reports of your transactions as many times you want.
-  fontawesome_icon_name                 : chart-bar
-
 - title                                 : Review & Rating
   description                           : CleNet has a Simple and Clear Review & Rating system that helps you to understand customers better. And also helps to innovate & take better decisions.
   fontawesome_icon_name                 : star
