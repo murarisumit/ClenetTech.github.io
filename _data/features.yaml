@@ -2,10 +2,6 @@
   description                           : With lots of care CleNet is designed to manage your work force. You can easily manage your work force & transactions made by them.
   fontawesome_icon_name                 : magic
 
-- title                                 : Track Transactions at each point
-  description                           : With CleNet you can get the status of your product or service at each nodal point.
-  fontawesome_icon_name                 : exchange-alt
-
 - title                                 : Place Orders
   description                           : Request Orders from businesses of your choice and communicate to them through chat.
   fontawesome_icon_name                 : dolly
@@ -15,7 +11,7 @@
   fontawesome_icon_name                 : star
 
 - title                                 : Chat, Share Images, Videos & Files
-  description                           : Whether you want to communicate with customers or friends or colleagues or share images/videos/files, CleNet provides Chat, Group Chat, Broadcast & Order Chat with Image, Video & File sharing options.
+  description                           : CleNet provides Chat, Group Chat, Broadcast & Order Chat with Image, Video & File sharing options.
   fontawesome_icon_name                 : share
 
 - title                                 : Security
@@ -29,4 +25,8 @@
 - title                                 : Trust
   description                           : In business, trust is one of the major factors which accumulates customers over time. A reliable and transparent system like CleNet helps to win the heart of your customers.
   fontawesome_icon_name                 : handshake
+
+- title                                 : Payment
+  description                           : Easier payment with Google Pay, BMIM, PhonePe, Paytm or any other UPI Provider.
+  fontawesome_icon_name                 : money
 
