@@ -28,5 +28,5 @@
 
 - title                                 : Payment
   description                           : Easier payment with Google Pay, BMIM, PhonePe, Paytm or any other UPI Provider.
-  fontawesome_icon_name                 : money
+  fontawesome_icon_name                 : rupee-sign
 
